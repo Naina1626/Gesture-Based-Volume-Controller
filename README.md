@@ -51,10 +51,10 @@ This project leverages **computer vision** to control system volume using hand g
 
 ## Results
 
-- ✅ Successfully controls system volume based on hand gestures
-- ✅ Fast and accurate hand tracking using MediaPipe
-- ✅ Real-time responsiveness with minimal lag
-- ✅ Effective visual feedback for user interaction
-- ✅ Eliminates need for hardware buttons, enabling touchless control
+- Successfully controls system volume based on hand gestures
+- Fast and accurate hand tracking using MediaPipe
+- Real-time responsiveness with minimal lag
+- Effective visual feedback for user interaction
+- Eliminates need for hardware buttons, enabling touchless control
 
 > This project demonstrates an innovative, touch-free approach to human-computer interaction using gesture control.
